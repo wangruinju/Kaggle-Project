@@ -18,17 +18,17 @@ Carvana offers start-up company ambitions, attitudes, and atmosphere within esta
 
 ## Take one look
 
-<img src="https://github.com/wangruinju/Dont_Get_Kicked/blob/master/images/Dashboard%201.png" width="900">
+<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/images/Dashboard%201.png" width="900">
 
 Histgram of numerical features
 
-<img src="https://github.com/wangruinju/Dont_Get_Kicked/blob/master/images/attribute_histogram_plots.png" width="700">
+<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/images/attribute_histogram_plots.png" width="700">
 
 Covariance of numerical features
 
-<img src="https://github.com/wangruinju/Dont_Get_Kicked/blob/master/images/covariance%20matrix%20heatmap.png" width="700">
+<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/images/covariance%20matrix%20heatmap.png" width="700">
 
-[Statistical discription and preprocessing using label encoder](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/Car%20Auction_encoder.ipynb)
+[Statistical discription and preprocessing using label encoder](https://github.com/wangruinju/Kaggle-Project/blob/master/Car%20Auction_encoder.ipynb)
 
 [Another way for categorical variables using onehot dummy method](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/Car%20Auction_onehot.ipynb)
 
