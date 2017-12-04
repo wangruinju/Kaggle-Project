@@ -18,30 +18,30 @@ Carvana offers start-up company ambitions, attitudes, and atmosphere within esta
 
 ## Take one look
 
-<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/images/Dashboard%201.png" width="900">
+<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/images/Dashboard%201.png" width="900">
 
 Histgram of numerical features
 
-<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/images/attribute_histogram_plots.png" width="700">
+<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/images/attribute_histogram_plots.png" width="700">
 
 Covariance of numerical features
 
-<img src="https://github.com/wangruinju/Kaggle-Project/blob/master/images/covariance%20matrix%20heatmap.png" width="700">
+<img src="hhttps://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/images/covariance%20matrix%20heatmap.png" width="700">
 
-[Statistical discription and preprocessing using label encoder](https://github.com/wangruinju/Kaggle-Project/blob/master/Car%20Auction_encoder.ipynb)
+[Statistical discription and preprocessing using label encoder](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/Car%20Auction_encoder.ipynb)
 
-[Another way for categorical variables using onehot dummy method](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/Car%20Auction_onehot.ipynb)
+[Another way for categorical variables using onehot dummy method](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/Car%20Auction_onehot.ipynb)
 
 ## Best Modeling using XGBoost
-[Rank 28 with Score 0.25205](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/XGB_onehot.ipynb)
+[Rank 28 with Score 0.25205](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/XGB_onehot.ipynb)
 
 ## Modeling: RandomForest, AdaBoost, DecisionTree and Ensembling 
-[Modeling using encoder data](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/Deep_Modeling_encoder.ipynb)
+[Modeling using encoder data](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/Deep_Modeling_encoder.ipynb)
 
-[Modeling using onehot data](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/Deep_Modeling_onehot.ipynb)
+[Modeling using onehot data](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/Deep_Modeling_onehot.ipynb)
 
 ## Oversample plus SVM
-[Oversample plus SVW using onehot data](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/SVM_SMOTE_Modeling_onehot.ipynb)
+[Oversample plus SVW using onehot data](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/SVM_SMOTE_Modeling_onehot.ipynb)
 
 ## Comparison between oversample methods from imblearn examples
-[Plot over sampling benchmark](https://github.com/wangruinju/Dont_Get_Kicked/blob/master/plot_over_sampling_benchmark.ipynb)
+[Plot over sampling benchmark](https://github.com/wangruinju/Kaggle-Project/blob/master/Dont_Get_Kicked/plot_over_sampling_benchmark.ipynb)
